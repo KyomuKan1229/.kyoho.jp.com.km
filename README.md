@@ -1,1 +1,1 @@
-# .kyoho.jp.com.km
+# test.kyoho.jp.com.km
